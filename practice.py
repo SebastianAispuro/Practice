@@ -8,3 +8,6 @@ print("hey")
 print("nah")
 print("peace")
 print('peace")
+print("out")
+print("out")
+      
